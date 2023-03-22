@@ -1,0 +1,13 @@
+{
+    "Token":"**_********",
+    "business_flag": "*****",
+    "model_local_file_path": "/apdcephfs/share_******",
+    "host_num": 1,
+    "host_gpu_num": 8,
+    "GPUName": "A100", 
+    "cuda_version": "11.0",
+    "is_elasticity": true,
+    "enable_evicted_pull_up": true,
+    "image_full_name": "mirrors.****.com/****", 
+    "start_cmd": "sh ./start.sh bloom 4"
+}

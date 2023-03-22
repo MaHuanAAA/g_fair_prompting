@@ -1,0 +1,12 @@
+CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 python3 run_classification_greedy.py \
+--model-dir="/apdcephfs/share_*********" \
+--models="bloom" \
+--dataset="agnews" \
+--num_seeds="0,5" \
+--all_shots="4" \
+--subsample_test_set=100 \
+--loop_type="greedy" \
+--key_id="4" \
+--bs=1 \
+--save_dir="/apdcephfs/share_*********" \
+--approx
