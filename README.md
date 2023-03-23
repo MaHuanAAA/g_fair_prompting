@@ -30,7 +30,7 @@ sh ./start.sh bloom
 ```
 @article{ma2023fairness,
   title={Fairness-guided Few-shot Prompting for Large Language Models},
-  author={Huan Ma, Changqing Zhang，Yatao Bian，Lemao Liu ，Zhirui Zhang，Peilin Zhao，Shu Zhang, Huazhu Fu, Qinghua Hu, Bingzhe Wu},
+  author={Huan Ma, Changqing Zhang, Yatao Bian, Lemao Liu, Zhirui Zhang, Peilin Zhao, Shu Zhang, Huazhu Fu, Qinghua Hu, Bingzhe Wu},
   year={2023}
 }
 ```
