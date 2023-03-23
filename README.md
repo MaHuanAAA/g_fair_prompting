@@ -34,10 +34,3 @@ sh ./start.sh bloom
   year={2023}
 }
 ```
-
-## Quick Start on Tai Ji Machine Learning Platform
-
-We also provide an example for users who want to commit the task to Tai Ji Machine Learning Platform:
-```
-jizhi_client start -scfg ./bloom_config.json
-```
