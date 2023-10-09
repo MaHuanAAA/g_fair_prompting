@@ -28,9 +28,11 @@ sh ./start.sh bloom
 
 
 ```
-@article{ma2023fairness,
-  title={Fairness-guided Few-shot Prompting for Large Language Models},
-  author={Huan Ma, Changqing Zhang, Yatao Bian, Lemao Liu, Zhirui Zhang, Peilin Zhao, Shu Zhang, Huazhu Fu, Qinghua Hu, Bingzhe Wu},
-  year={2023}
+@inproceedings{
+ma2023fairness,
+title={Fairness-guided Few-shot Prompting for Large Language Models},
+author={Huan Ma and Changqing Zhang and Yatao Bian and Lemao Liu and Zhirui Zhang and Peilin Zhao and Shu Zhang and Huazhu Fu and Qinghua Hu and Bingzhe Wu},
+booktitle={Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS)},
+year={2023},
 }
 ```
